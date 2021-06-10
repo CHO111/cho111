@@ -13,7 +13,7 @@
 
 - 📒  **cho111's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cho111.github.io/)](https://cho111.github.io/)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho111&show_icons=true&theme=cobalt)   
 
 
 
