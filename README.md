@@ -2,7 +2,7 @@
 
 
 
- - 💻   **I'm a student!.**    
+ - 💻   **I'm a student.**    
 
  - 🇰🇷  **I'm live in South Korea**
 
